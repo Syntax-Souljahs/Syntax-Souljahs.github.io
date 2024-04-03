@@ -45,4 +45,4 @@ Walkthrough videos will be created to provide visual demonstrations of Gym Buddy
 Example Enhancements will outline potential future features and improvements that could be implemented in Gym Buddy based on user feedback and emerging trends in the fitness and social networking industries. These enhancements will be prioritized and incorporated into the development roadmap as appropriate.
 
 ## Team
-Comprising six passionate individuals from a software engineering class (Tyler Mak, Isai Foglesong, Alvin Wu, Shane Baclig, Ronan Russel Andal, and Hunter Von Tungeln, the Gym Buddy development team shares an equal devotion to fostering a thriving gym community.
+Comprising six passionate individuals from a software engineering class (Tyler Mak, Isai Foglesong, Alvin Wu, Shane Baclig, Ronan Russel Andal, and Hunter Von Tungeln) the Gym Buddy development team shares an equal devotion to fostering a thriving gym community.
