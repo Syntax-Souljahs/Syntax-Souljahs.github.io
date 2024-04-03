@@ -1,1 +1,3 @@
-# SyntaxSoljahs.github.io
+theme: jekyll-theme-Hacker
+
+# SyntaxSouljahs.github.io
