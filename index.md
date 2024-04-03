@@ -1,4 +1,4 @@
-# Bowfolios
+# Gym Buddy
 
 ## Table of contents
 
