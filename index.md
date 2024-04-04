@@ -6,9 +6,7 @@
 * [Deployment](#deployment)
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
-* [Developer Guide](#developer-guide)
 * [Development History](#development-history)
-* [Continuous Integration](#continuous-integration)
 * [Walkthrough videos](#walkthrough-videos)
 * [Example enhancements](#example-enhancements)
 * [Team](#team)
@@ -30,14 +28,9 @@ Begin your Gym Buddy experience by creating a personalized profile reflecting yo
 
 Feedback from the Gym Buddy community will be actively solicited and valued to drive ongoing improvements and enhancements. Regular surveys, feedback forms, and user forums will be utilized to gather input on desired features, usability issues, and overall user satisfaction.
 
-## Developer Guide
-The Developer Guide will provide documentation and guidelines for developers interested in contributing to the ongoing development and maintenance of Gym Buddy. It will include information on the application architecture, coding standards, version control procedures, testing protocols, and contribution guidelines.
-
 ## Development History
 The Development History section will provide an overview of the creators, milestones, iterations, and updates that have shaped the evolution of Gym Buddy from its inception to its current state. It will highlight key features, enhancements, and challenges encountered throughout the development process.
 
-## Continuous Integration
-Continuous Integration (CI) practices will be implemented to automate the process of integrating code changes into the main Gym Buddy codebase. This will ensure that new features and bug fixes are promptly tested and deployed, reducing the risk of integration conflicts and regression errors.
 
 ## Walkthrough Videos
 Walkthrough videos will be created to provide visual demonstrations of Gym Buddy's features and functionalities. These videos will serve as helpful resources for new users seeking guidance on how to navigate the platform and utilize its various tools effectively.
