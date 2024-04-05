@@ -6,6 +6,7 @@
 * [Deployment](#deployment)
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
+* [Developer Guide](#developer-guide)
 * [Development History](#development-history)
 * [Walkthrough videos](#walkthrough-videos)
 * [Example enhancements](#example-enhancements)
@@ -48,7 +49,33 @@ whether you're a seasoned powerlifter, dedicated bodybuilder, enthusiastic cross
 
 Feedback from the Gym Buddy community will be actively solicited and valued to drive ongoing improvements and enhancements. Regular surveys, feedback forms, and user forums will be utilized to gather input on desired features, usability issues, and overall user satisfaction.
 
+## Developer Guide
+
+### Installation
+
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, visit the [gym buddies application page](https://github.com/Syntax-Souljahs/SyntaxSouljahs.github.io), and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo.  However you do it, download a copy of the repo to your local computer.
+
+Third, cd into the gymbuddy/app directory and install libraries with:
+
+```
+$ meteor npm install
+```
+
+Fourth, run the system with:
+
+```
+$ meteor npm run start
+```
+
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
+
 ## Development History
+
+https://github.com/orgs/Syntax-Souljahs/projects/1
+
+
 The Development History section will provide an overview of the creators, milestones, iterations, and updates that have shaped the evolution of Gym Buddy from its inception to its current state. It will highlight key features, enhancements, and challenges encountered throughout the development process.
 <img src="img/gymbuddy-draft-landing.png">
 
