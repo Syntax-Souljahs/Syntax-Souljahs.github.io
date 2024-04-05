@@ -20,6 +20,7 @@ Gym Buddy is a specialized social networking platform for UH Manoa tailored for 
 
 Gym Buddy will initially be deployed as a web application accessible through any modern web browser. It will feature responsive design to ensure compatibility across various devices including desktops, laptops, tablets, and smartphones. Additionally, native mobile applications for iOS and Android may be considered for future development based on user demand and feedback
 
+
 ## User Guide
 
 Begin your Gym Buddy experience by creating a personalized profile reflecting your fitness interests,
@@ -35,7 +36,7 @@ Feedback from the Gym Buddy community will be actively solicited and valued to d
 
 ## Development History
 The Development History section will provide an overview of the creators, milestones, iterations, and updates that have shaped the evolution of Gym Buddy from its inception to its current state. It will highlight key features, enhancements, and challenges encountered throughout the development process.
-
+<img src="img/gymbuddy-draft-landing.png">
 
 ## Walkthrough Videos
 Walkthrough videos will be created to provide visual demonstrations of Gym Buddy's features and functionalities. These videos will serve as helpful resources for new users seeking guidance on how to navigate the platform and utilize its various tools effectively.
