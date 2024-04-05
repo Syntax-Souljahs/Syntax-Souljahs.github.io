@@ -22,7 +22,12 @@ Gym Buddy will initially be deployed as a web application accessible through any
 
 ## User Guide
 
-Begin your Gym Buddy experience by creating a personalized profile reflecting your fitness interests, whether you're a seasoned powerlifter, dedicated bodybuilder, enthusiastic crossfit athlete, or a newcomer eager to kickstart your gym journey. By categorizing yourself, Gym Buddy facilitates connections with like-minded individuals sharing similar fitness aspirations or simply keen on exploring diverse interests. Once your profile is set up, dive into the community to discover fellow gym enthusiasts pursuing similar goals or simply immerse yourself in the vibrant atmosphere of the gym environment.
+Begin your Gym Buddy experience by creating a personalized profile reflecting your fitness interests,
+
+*rough draft*
+<img src="Contracts/register-page.png">
+
+whether you're a seasoned powerlifter, dedicated bodybuilder, enthusiastic crossfit athlete, or a newcomer eager to kickstart your gym journey. By categorizing yourself, Gym Buddy facilitates connections with like-minded individuals sharing similar fitness aspirations or simply keen on exploring diverse interests. Once your profile is set up, dive into the community to discover fellow gym enthusiasts pursuing similar goals or simply immerse yourself in the vibrant atmosphere of the gym environment.
 
 ## Community feedback
 
