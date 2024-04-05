@@ -40,7 +40,7 @@ Here you will see people you've sent a friend request to and they have accepted 
 
 meanwhile on the UHM page will be  a compilation of everybody's posts in the school
 
-
+![UHM-page.png](img%2FUHM-page.png)
 
 whether you're a seasoned powerlifter, dedicated bodybuilder, enthusiastic crossfit athlete, or a newcomer eager to kickstart your gym journey. By categorizing yourself, Gym Buddy facilitates connections with like-minded individuals sharing similar fitness aspirations or simply keen on exploring diverse interests. Once your profile is set up, dive into the community to discover fellow gym enthusiasts pursuing similar goals or simply immerse yourself in the vibrant atmosphere of the gym environment.
 
