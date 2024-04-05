@@ -13,7 +13,7 @@
 
 ## Overview
 
-<img src="Contracts/rec-center.jpg">
+<img src="img/rec-center.jpg">
 Gym Buddy is a specialized social networking platform for UH Manoa tailored for both seasoned gym enthusiasts and individuals aspiring to embark on their fitness journey within the school community. It serves as a platform for students and staff with similar goals in the gym to work out with eachother, motivate each other, and share their fitness journeys. Gym Buddy allows users to create profiles, connect with friends, join groups, post updates, and engage in discussions related to fitness and wellness.
 
 ## Deployment
@@ -26,7 +26,21 @@ Gym Buddy will initially be deployed as a web application accessible through any
 Begin your Gym Buddy experience by creating a personalized profile reflecting your fitness interests,
 
 *rough draft*
-<img src="Contracts/register-page.png">
+<img src="img/register-page.png">
+
+However if you're a returning user you can login with just your user and password
+
+<img src="img/login-page.png">
+
+once you login there will be two sections for you to choose, your friends page, and the UHM page
+
+![friends-page.png](img%2Ffriends-page.png)
+
+Here you will see people you've sent a friend request to and they have accepted what they are up to 
+
+meanwhile on the UHM page will be  a compilation of everybody's posts in the school
+
+
 
 whether you're a seasoned powerlifter, dedicated bodybuilder, enthusiastic crossfit athlete, or a newcomer eager to kickstart your gym journey. By categorizing yourself, Gym Buddy facilitates connections with like-minded individuals sharing similar fitness aspirations or simply keen on exploring diverse interests. Once your profile is set up, dive into the community to discover fellow gym enthusiasts pursuing similar goals or simply immerse yourself in the vibrant atmosphere of the gym environment.
 
