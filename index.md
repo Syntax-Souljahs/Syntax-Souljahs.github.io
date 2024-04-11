@@ -38,7 +38,7 @@ If it is your first time visiting our site you can either go through our guide f
 
 However if you're a returning user you can login with your email address and password
 
-<img src="img/login-page.png">
+![login-page.png](img%2Flogin-page.png)
 
 once you login there will be three sections for you to choose the find a buddy page, the exercises page, and the workout schedule page
 
