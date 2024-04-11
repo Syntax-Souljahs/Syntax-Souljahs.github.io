@@ -47,15 +47,24 @@ However if you're a returning user you can login with your email address and pas
 
 once you login there will be three sections for you to choose the find a buddy page, the exercises page, and the workout schedule page
 
+find a buddy:
 ![find-a-buddy-page.png](img%2Ffind-a-buddy-page.png)
 
-*exercises page screenshot*
+exercises:
+![exercises-page.png](img%2Fexercises-page.png)
 
+workout schedule customization:
 ![workout-sched-page.png](img%2Fworkout-sched-page.png)
 
-meanwhile on the UHM page will be  a compilation of everybody's posts in the school
+However if you are an admin, you have access to all the profiles made so far
 
-![UHM-page.png](img%2FUHM-page.png)
+![admin-page.png](img%2Fadmin-page.png)
+
+
+
+and once you are fulfilled with your rc warriors experience you can click your profile on the top right corner and click sign out on the drop down
+
+![Screenshot 2024-04-11 at 10.42.43 AM.png](..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fmz%2F9qpzsh1n3w5flfz1k50mw1wm0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_Xy388u%2FScreenshot%202024-04-11%20at%2010.42.43%20AM.png)
 
 whether you're a seasoned powerlifter, dedicated bodybuilder, enthusiastic crossfit athlete, or a newcomer eager to kickstart your gym journey. By categorizing yourself, Gym Buddy facilitates connections with like-minded individuals sharing similar fitness aspirations or simply keen on exploring diverse interests. Once your profile is set up, dive into the community to discover fellow gym enthusiasts pursuing similar goals or simply immerse yourself in the vibrant atmosphere of the gym environment.
 
