@@ -34,8 +34,11 @@ As you visit our page for the first time  you'll be welcomed by our vibrant land
 
 If this is your first visit, you have two options: take a quick tour with our guide to get a feel for what we offer, or dive right in and create a new account. The choice is yours
 
-*guide page pictures*
+guide page:
+![guide-page.png](img%2Fguide-page.png)
+![guide-page2.png](img%2Fguide-page2.png)
 
+register page:
 ![register-page.png](img%2Fregister-page.png)
 
 However if you're a returning user you can login with your email address and password
@@ -48,7 +51,7 @@ once you login there will be three sections for you to choose the find a buddy p
 
 *exercises page screenshot*
 
-*workout schedule page screesnhot*
+*workout schedule page screenshot*
 
 meanwhile on the UHM page will be  a compilation of everybody's posts in the school
 
