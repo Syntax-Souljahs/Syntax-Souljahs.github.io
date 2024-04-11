@@ -28,11 +28,11 @@ Gym Buddy will initially be deployed as a web application accessible through any
 
 ## User Guide
 
-As you visit our page for the first time you will be greeeted with out landing page with several options to make your stay a good time
+As you visit our page for the first time  you'll be welcomed by our vibrant landing page, offering you a variety of options to ensure an enjoyable experience during your stay
 
 <img src="img/landing-page.png">
 
-If it is your first time visiting our site you can either go through our guide for a quick intro to what to expect for our site or you can jump the gun and register for a new account
+If this is your first visit, you have two options: take a quick tour with our guide to get a feel for what we offer, or dive right in and create a new account. The choice is yours
 
 *guide page pictures*
 
