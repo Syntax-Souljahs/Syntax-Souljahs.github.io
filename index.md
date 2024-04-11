@@ -51,7 +51,7 @@ once you login there will be three sections for you to choose the find a buddy p
 
 *exercises page screenshot*
 
-*workout schedule page screenshot*
+![workout-sched-page.png](img%2Fworkout-sched-page.png)
 
 meanwhile on the UHM page will be  a compilation of everybody's posts in the school
 
