@@ -84,13 +84,15 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 
 ## Development History
 
-[Our M1 project page](https://github.com/orgs/Syntax-Souljahs/projects/1)
+
 
 [Our Team Contract](https://github.com/Syntax-Souljahs/Syntax-Souljahs.github.io/tree/main/Contracts)
 
 [Our Github organization](https://github.com/Syntax-Souljahs)
 
+[Our M1 project page](https://github.com/orgs/Syntax-Souljahs/projects/1)
 
+[Our M2 project page](https://github.com/orgs/Syntax-Souljahs/projects/3)
 
 The Development History section will provide an overview of the creators, milestones, iterations, and updates that have shaped the evolution of Gym Buddy from its inception to its current state. It will highlight key features, enhancements, and challenges encountered throughout the development process.
 <img src="img/gymbuddy-draft-landing.png">
