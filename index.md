@@ -21,6 +21,8 @@ Gym Buddy is a specialized social networking platform for UH Manoa tailored for 
 
 ## Deployment
 
+[Our Deplpoyed Application](https://rcwarriors.fit/)
+
 Gym Buddy will initially be deployed as a web application accessible through any modern web browser. It will feature responsive design to ensure compatibility across various devices including desktops, laptops, tablets, and smartphones. Additionally, native mobile applications for iOS and Android may be considered for future development based on user demand and feedback
 
 
@@ -82,7 +84,7 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 
 ## Development History
 
-[https://github.com/orgs/Syntax-Souljahs/projects/1](https://github.com/orgs/Syntax-Souljahs/projects/1)
+[Our M1 project page](https://github.com/orgs/Syntax-Souljahs/projects/1)
 
 [Our Team Contract](https://github.com/Syntax-Souljahs/Syntax-Souljahs.github.io/tree/main/Contracts)
 
