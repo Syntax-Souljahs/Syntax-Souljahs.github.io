@@ -15,6 +15,8 @@
 ## Overview
 
 <img src="img/rec-center.jpg">
+[Our Github organization](https://github.com/Syntax-Souljahs)
+
 Gym Buddy is a specialized social networking platform for UH Manoa tailored for both seasoned gym enthusiasts and individuals aspiring to embark on their fitness journey within the school community. It serves as a platform for students and staff with similar goals in the gym to work out with eachother, motivate each other, and share their fitness journeys. Gym Buddy allows users to create profiles, connect with friends, join groups, post updates, and engage in discussions related to fitness and wellness.
 
 ## Deployment
