@@ -107,7 +107,6 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 [Our M2 project page](https://github.com/orgs/Syntax-Souljahs/projects/3)
 
 The Development History section will provide an overview of the creators, milestones, iterations, and updates that have shaped the evolution of Gym Buddy from its inception to its current state. It will highlight key features, enhancements, and challenges encountered throughout the development process.
-<img src="img/gymbuddy-draft-landing.png">
 
 ## Walkthrough Videos
 Walkthrough videos will be created to provide visual demonstrations of Gym Buddy's features and functionalities. These videos will serve as helpful resources for new users seeking guidance on how to navigate the platform and utilize its various tools effectively.
