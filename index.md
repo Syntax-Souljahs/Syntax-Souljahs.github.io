@@ -56,6 +56,10 @@ exercises:
 workout schedule customization:
 ![workout-sched-page.png](img%2Fworkout-sched-page.png)
 
+you can also check your profile to see your statistics
+
+![profile-page.png](img%2Fprofile-page.png)
+
 However if you are an admin, you have access to all the profiles made so far
 
 ![admin-page.png](img%2Fadmin-page.png)
