@@ -15,7 +15,7 @@
 ## Overview
 
 <img src="img/rec-center.jpg">
-[Our Github organization](https://github.com/Syntax-Souljahs)
+
 
 Gym Buddy is a specialized social networking platform for UH Manoa tailored for both seasoned gym enthusiasts and individuals aspiring to embark on their fitness journey within the school community. It serves as a platform for students and staff with similar goals in the gym to work out with eachother, motivate each other, and share their fitness journeys. Gym Buddy allows users to create profiles, connect with friends, join groups, post updates, and engage in discussions related to fitness and wellness.
 
@@ -26,20 +26,27 @@ Gym Buddy will initially be deployed as a web application accessible through any
 
 ## User Guide
 
-Begin your Gym Buddy experience by creating a personalized profile reflecting your fitness interests,
+As you visit our page for the first time you will be greeeted with out landing page with several options to make your stay a good time
 
-*rough draft*
-<img src="img/register-page.png">
+<img src="img/landing-page.png">
 
-However if you're a returning user you can login with just your user and password
+If it is your first time visiting our site you can either go through our guide for a quick intro to what to expect for our site or you can jump the gun and register for a new account
+
+*guide page pictures*
+
+![register-page.png](img%2Fregister-page.png)
+
+However if you're a returning user you can login with your email address and password
 
 <img src="img/login-page.png">
 
-once you login there will be two sections for you to choose, your friends page, and the UHM page
+once you login there will be three sections for you to choose the find a buddy page, the exercises page, and the workout schedule page
 
-![friends-page.png](img%2Ffriends-page.png)
+![find-a-buddy-page.png](img%2Ffind-a-buddy-page.png)
 
-Here you will see people you've sent a friend request to and they have accepted what they are up to 
+*exercises page screenshot*
+
+*workout schedule page screesnhot*
 
 meanwhile on the UHM page will be  a compilation of everybody's posts in the school
 
@@ -76,6 +83,11 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 ## Development History
 
 [https://github.com/orgs/Syntax-Souljahs/projects/1](https://github.com/orgs/Syntax-Souljahs/projects/1)
+
+[Our Team Contract](https://github.com/Syntax-Souljahs/Syntax-Souljahs.github.io/tree/main/Contracts)
+
+[Our Github organization](https://github.com/Syntax-Souljahs)
+
 
 
 The Development History section will provide an overview of the creators, milestones, iterations, and updates that have shaped the evolution of Gym Buddy from its inception to its current state. It will highlight key features, enhancements, and challenges encountered throughout the development process.
