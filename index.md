@@ -64,7 +64,7 @@ However if you are an admin, you have access to all the profiles made so far
 
 and once you are fulfilled with your rc warriors experience you can click your profile on the top right corner and click sign out on the drop down
 
-![Screenshot 2024-04-11 at 10.42.43 AM.png](..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fmz%2F9qpzsh1n3w5flfz1k50mw1wm0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_Xy388u%2FScreenshot%202024-04-11%20at%2010.42.43%20AM.png)
+![sign-out-page.png](img%2Fsign-out-page.png)
 
 whether you're a seasoned powerlifter, dedicated bodybuilder, enthusiastic crossfit athlete, or a newcomer eager to kickstart your gym journey. By categorizing yourself, Gym Buddy facilitates connections with like-minded individuals sharing similar fitness aspirations or simply keen on exploring diverse interests. Once your profile is set up, dive into the community to discover fellow gym enthusiasts pursuing similar goals or simply immerse yourself in the vibrant atmosphere of the gym environment.
 
