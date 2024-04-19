@@ -17,7 +17,10 @@
 <img src="img/rec-center.jpg">
 
 
-Gym Buddy is a specialized social networking platform for UH Manoa tailored for both seasoned gym enthusiasts and individuals aspiring to embark on their fitness journey within the school community. It serves as a platform for students and staff with similar goals in the gym to work out with eachother, motivate each other, and share their fitness journeys. Gym Buddy allows users to create profiles, connect with friends, join groups, post updates, and engage in discussions related to fitness and wellness.
+Rec Center Warriors is a specialized social networking platform for UH Manoa tailored for both seasoned gym enthusiasts and individuals aspiring to embark on their fitness journey within the school community. It serves as a platform for students and staff with similar goals in the gym to work out with eachother, motivate each other, and share their fitness journeys. Gym Buddy allows users to create profiles, connect with friends, join groups, post updates, and engage in discussions related to fitness and wellness.
+
+For many individuals, starting a fitness journey can be frightening, particularly when faced with the intimidating atmosphere of a gym. Rec Center Warriors addresses this challenge by offering a supportive network where users can find companionship, encouragement, and guidance from like-minded peers. Whether seeking a workout partner or simply looking to engage with others on their fitness path, Rec Center Warriors fosters a welcoming environment where members can thrive together.
+
 
 ## Deployment
 
