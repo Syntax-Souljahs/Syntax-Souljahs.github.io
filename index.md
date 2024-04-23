@@ -86,7 +86,7 @@ Feedback from the Gym Buddy community will be actively solicited and valued to d
 
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, visit the [gym buddies application page](https://github.com/Syntax-Souljahs/SyntaxSouljahs.github.io), and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo.  However you do it, download a copy of the repo to your local computer.
+Second, visit the [gym buddies application page](https://github.com/Syntax-Souljahs/RecCenterWarriors), and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo.  However you do it, download a copy of the repo to your local computer.
 
 Third, cd into the gymbuddy/app directory and install libraries with:
 
