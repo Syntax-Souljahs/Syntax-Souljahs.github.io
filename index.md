@@ -1,5 +1,4 @@
 # Gym Buddy
-![ci-badge](https://github.com/Syntax-Souljahs/RecCenterWarriors/workflows/RecCenterWarriors/badge.svg)
 
 ## Table of contents
 
@@ -105,7 +104,7 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 
 ## Development History
 
-
+![ci-badge](https://github.com/Syntax-Souljahs/RecCenterWarriors/workflows/RecCenterWarriors/badge.svg)
 
 [Our Team Contract](https://github.com/Syntax-Souljahs/Syntax-Souljahs.github.io/tree/main/Contracts)
 
