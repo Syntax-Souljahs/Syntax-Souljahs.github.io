@@ -1,3 +1,3 @@
-<img src="https://github.com/syntax-souljahs/RecCenterWarriors/workflows/M2/badge.svg" alt="Build Status">
+<img src="https://github.com/Syntax-Souljahs/RecCenterWarriors/workflows/meteor-application-template-react/badge.svg" alt="Build Status">
 
 # SyntaxSouljahs.github.io
