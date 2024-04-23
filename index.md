@@ -1,4 +1,5 @@
 # Gym Buddy
+![ci-badge](https://github.com/Syntax-Souljahs/RecCenterWarriors/workflows/RecCenterWarriors/badge.svg)
 
 ## Table of contents
 
@@ -13,6 +14,7 @@
 * [Team](#team)
 
 ## Overview
+
 
 <img src="img/rec-center.jpg">
 
