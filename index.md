@@ -39,6 +39,7 @@ As you visit our page for the first time  you'll be welcomed by our vibrant land
 If this is your first visit, you have two options: take a quick tour with our guide to get a feel for what we offer, or dive right in and create a new account. The choice is yours
 
 guide page:
+
 ![guide-page.png](img%2Fguide-page.png)
 ![guide-page2.png](img%2Fguide-page2.png)
 
@@ -49,30 +50,32 @@ However if you're a returning user you can login with your email address and pas
 
 ![login-page.png](img%2Flogin-page.png)
 
-once you login there will be three sections for you to choose the find a buddy page, the exercises page, and the workout schedule page
-
-find a buddy:
-![find-a-buddy-page.png](img%2Ffind-a-buddy-page.png)
-
-exercises:
+once you login there are a bunch of pages that you can visit like the exercises page where you can look for exercises to add for your next workout
 ![exercises-page.png](img%2Fexercises-page.png)
+
+
+the buddy up page where you can match with people with similar training goals as you
+![buddy-up-page.png](img%2Fbuddy-up-page.png)
+
+you can check the guide again if you needed to see the instructions again
+![guide-page.png](img%2Fguide-page.png)
 
 workout schedule customization:
 ![workout-sched-page.png](img%2Fworkout-sched-page.png)
 
 you can also check your profile to see your statistics
-
 ![profile-page.png](img%2Fprofile-page.png)
 
-However if you are an admin, you have access to all the profiles made so far
 
+However if you are an admin, you have access to all the profiles made so far
 ![admin-page.png](img%2Fadmin-page.png)
 
 
 
-and once you are fulfilled with your rc warriors experience you can click your profile on the top right corner and click sign out on the drop down
 
+and once you are fulfilled with your rc warriors experience you can click your profile on the top right corner and click sign out on the drop down
 ![sign-out-page.png](img%2Fsign-out-page.png)
+
 
 whether you're a seasoned powerlifter, dedicated bodybuilder, enthusiastic crossfit athlete, or a newcomer eager to kickstart your gym journey. By categorizing yourself, Gym Buddy facilitates connections with like-minded individuals sharing similar fitness aspirations or simply keen on exploring diverse interests. Once your profile is set up, dive into the community to discover fellow gym enthusiasts pursuing similar goals or simply immerse yourself in the vibrant atmosphere of the gym environment.
 
