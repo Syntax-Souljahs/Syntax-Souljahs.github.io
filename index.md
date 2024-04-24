@@ -51,7 +51,7 @@ However if you're a returning user you can login with your email address and pas
 ![login-page.png](img%2Flogin-page.png)
 
 once you login there are a bunch of pages that you can visit like the exercises page where you can look for exercises to add for your next workout
-![exercises-page.png](img%2Fexercises-page.png)
+<img src="./img/exercises-page.png">
 
 
 the buddy up page where you can match with people with similar training goals as you
