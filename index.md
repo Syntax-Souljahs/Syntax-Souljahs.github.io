@@ -81,7 +81,7 @@ whether you're a seasoned powerlifter, dedicated bodybuilder, enthusiastic cross
 
 ## Community feedback
 
-Here are some feedback from individuals in the community who have accessed the app
+Here is some feedback from individuals in the community who have accessed the app
 
 "Very interactive homepage, looks very professional, the app has a lot of potential, I can see me and my friends use it a bunch to interact with people. Maybe fix up the interface on an Iphone but other than that it looks like the app could be a big hit. Almost like a facebook but for the gym"- Shaira Jalalon
 
