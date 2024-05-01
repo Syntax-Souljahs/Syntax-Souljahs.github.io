@@ -81,7 +81,7 @@ whether you're a seasoned powerlifter, dedicated bodybuilder, enthusiastic cross
 
 ## Community feedback
 
-Feedback from the Gym Buddy community will be actively solicited and valued to drive ongoing improvements and enhancements. Regular surveys, feedback forms, and user forums will be utilized to gather input on desired features, usability issues, and overall user satisfaction.
+"Very interactive homepage, looks very professional, the app has a lot of potential, I can see me and my homies use it a bunch. Maybe fix up the interface on an Iphone but other than that it looks like the app could be a big hit. Almost like a facebook but for the gym"- Adonis Navarro
 
 ## Developer Guide
 
