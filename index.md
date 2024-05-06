@@ -49,7 +49,7 @@ However if you're a returning user you can login with your email address and pas
 
 ![login-page.png](img%2Flogin-page.png)
 
-once you login you are greeted by a welcoming welcoming home screen with a bunch of pages you can visit
+once you login you are greeted by a welcoming home screen with a bunch of pages you can visit
 
 ![signin-landing-page.png](img%2Fsignin-landing-page.png)
 ![signin-landing-page2.png](img%2Fsignin-landing-page2.png)
