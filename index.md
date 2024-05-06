@@ -42,6 +42,7 @@ guide page:
 
 ![guide-page.png](img%2Fguide-page.png)
 ![guide-page2.png](img%2Fguide-page2.png)
+![guide-page3.png](img%2Fguide-page3.png)
 
 register page:
 ![register-page.png](img%2Fregister-page.png)
@@ -50,8 +51,15 @@ However if you're a returning user you can login with your email address and pas
 
 ![login-page.png](img%2Flogin-page.png)
 
-once you login there are a bunch of pages that you can visit like the exercises page where you can look for exercises to add for your next workout
+once you login you are greeted by a welcoming welcoming home screen with a bunch of pages you can visit
+
+![signin-landing-page.png](img%2Fsignin-landing-page.png)
+![signin-landing-page2.png](img%2Fsignin-landing-page2.png)
+
+
+like the exercises page where you can look for exercises to add for your next workout, also attached are videos for those who do not know who to execute these exercises.
 <img src="./img/exercises-page.png">
+![exercises-page2.png](img%2Fexercises-page2.png)
 
 
 the buddy up page where you can match with people with similar training goals as you
