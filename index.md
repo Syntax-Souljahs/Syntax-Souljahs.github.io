@@ -57,10 +57,12 @@ once you login you are greeted by a welcoming welcoming home screen with a bunch
 ![signin-landing-page2.png](img%2Fsignin-landing-page2.png)
 
 
-like the exercises page where you can look for exercises to add for your next workout, also attached are videos for those who do not know who to execute these exercises.
+The exercises page offers a variety of workouts for your next exercise session, complete with instructional videos for those unfamiliar with proper execution.
 <img src="./img/exercises-page.png">
 ![exercises-page2.png](img%2Fexercises-page2.png)
 
+You also have the option to put some exercises into your favorites which can be accessed in the favorite exercises page on the dropdown section of your username on the top right
+![favorite-exercises-page.png](img%2Ffavorite-exercises-page.png)
 
 the buddy up page where you can match with people with similar training goals as you
 ![buddy-up-page.png](img%2Fbuddy-up-page.png)
@@ -73,6 +75,9 @@ workout schedule customization:
 
 you can also check your profile to see your statistics
 ![profile-page.png](img%2Fprofile-page.png)
+
+You also have the option to change your info to your liking with the edit button
+![edit-profile-page.png](img%2Fedit-profile-page.png)
 
 
 However if you are an admin, you have access to all the profiles made so far
@@ -91,7 +96,7 @@ whether you're a seasoned powerlifter, dedicated bodybuilder, enthusiastic cross
 
 Here is some feedback from individuals in the community who have accessed the app
 
-"Very interactive homepage, looks very professional, the app has a lot of potential, I can see me and my friends use it a bunch to interact with people. Maybe fix up the interface on an Iphone but other than that it looks like the app could be a big hit. Almost like a facebook but for the gym"- Shaira Jalalon
+"Very interactive homepage, looks very professional, the app has a lot of potential, I can see me and my friends use it a bunch to interact with people. Maybe fix up the interface on an Iphone but other than that it looks like the app could be a big hit. Almost like a facebook but for the gym"- Kimberly Ogata
 
 <p></p>
 
