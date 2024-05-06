@@ -8,8 +8,6 @@
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
-* [Walkthrough videos](#walkthrough-videos)
-* [Example enhancements](#example-enhancements)
 * [Team](#team)
 
 ## Overview
@@ -145,11 +143,6 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 
 The Development History section will provide an overview of the creators, milestones, iterations, and updates that have shaped the evolution of Gym Buddy from its inception to its current state. It will highlight key features, enhancements, and challenges encountered throughout the development process.
 
-## Walkthrough Videos
-Walkthrough videos will be created to provide visual demonstrations of Gym Buddy's features and functionalities. These videos will serve as helpful resources for new users seeking guidance on how to navigate the platform and utilize its various tools effectively.
-
-## Example Enhancements
-Example Enhancements will outline potential future features and improvements that could be implemented in Gym Buddy based on user feedback and emerging trends in the fitness and social networking industries. These enhancements will be prioritized and incorporated into the development roadmap as appropriate.
 
 ## Team
 Comprising six passionate individuals from a software engineering class (Tyler Mak, Isai Foglesong, Alvin Wu, Shane Baclig, Ronan Russel Andal, and Hunter Von Tungeln) the Gym Buddy development team shares an equal devotion to fostering a thriving gym community.
