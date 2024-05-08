@@ -1,4 +1,4 @@
-# Gym Buddy
+# Rec Center Warriors
 
 ## Table of contents
 
