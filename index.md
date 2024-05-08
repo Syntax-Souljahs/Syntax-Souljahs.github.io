@@ -98,10 +98,15 @@ Here is some feedback from individuals in the community who have accessed the ap
 
 <p></p>
 
-<p>" I really liked the concept for your webpage. A match maker for lifting is a great idea, that I think would get a lot of use. I have a couple thoughts and ideas to share. The layout of the website was simple and easy to navigate on computer, but on mobile the text often overlapped, and the boxes were sized really awkwardly. Not sure if you intend for mobile use, but I feel like that’s where it would be the most popular. Saying somewhere on the homepage, “intended for desktop use” would probably be best. The fonts were readable except for the title page or the “welcome back ___” page. The dark color of the font with a white highlight around the outside was really harsh on the eyes. This is a big one, have some more social interaction on the platform. Maybe display my workout schedule for the week on my profile for my friends to see. Also, I could help but notice there wasn’t a friends list type of thing to see my current workout buddies. For future expansion, maybe a streak system where you can level up your relationship with your gym buddies by working out together. The third idea is a “for the future” type of idea. If this were to be developed further into the future, and you wanted to make a business out of it, I think you probably could do it." - Ashton Ka'ahanui-Isaacson</p>
+<p>" 
+I really liked the concept for your webpage. A match maker for lifting is a great idea, that I think would get a lot of use.  While the desktop layout is straightforward, the mobile view needs improvement, with text overlapping and awkward box sizes. Font readability varies, particularly harsh on title/welcome pages. It's suggested to indicate a desktop preference. Enhancing social features like sharing workout schedules and adding a friends list could improve user engagement. Consider future expansions like a streak system. Overall, there's evident potential for business development." - Ashton Ka'ahanui-Isaacson</p>
 
 <p>
 "Yeah I just went on! It seems easy to use and the concept is something I bet lots of students are interested in. Maybe being able to put down some more information about the advance level the person is in. Possibly putting down their max weights they use. The videos don't work, but the idea of having tutorials on how to do certain workouts is very helpful. Really good concept and hope more is added to it." - Sonse Kawasaki</p>
+
+<p>"I like how it is simple to set up and when you get into it and start using it the interface is not busy or all over the place. I also like the exercises tab, also on phone the fonts are too small and everything is too close together, but on the laptop it's all good" - Paul P</p>
+
+<p>"The design is pretty professional, almost like it is straight out of UH Manoa, but functionality wise it has a lot to improve on, which makes sense because it is still a work in progress. Phone version is completely different that PC also, but other than that has a lot of potential. Otherwise all the basic functions work great and to a non coders POV the app looks great - Earl Ramos</p>
 
 
 
