@@ -92,7 +92,9 @@ whether you're a seasoned powerlifter, dedicated bodybuilder, enthusiastic cross
 
 ## Community feedback
 
-Here is some feedback from individuals in the community who have accessed the app
+<p>From our community feedback, it's clear that there's excitement and interest in our application. Users appreciate the interactive and professional homepage, likening it to a Facebook for the gym. However, there are consistent concerns about the mobile interface, including text overlap and font readability issues. Suggestions for improvement include indicating a desktop preference, adding more detailed user information, fixing video functionality, and enhancing social features like workout schedule sharing and adding a friends list. Despite these issues, users recognize the app's potential and commend its simplicity and professional design.</p>
+
+Here is the raw feedback from individuals in the community who have accessed the app
 
 "Very interactive homepage, looks very professional, the app has a lot of potential, I can see me and my friends use it a bunch to interact with people. Maybe fix up the interface on an Iphone but other than that it looks like the app could be a big hit. Almost like a facebook but for the gym"- Kimberly Ogata
 
