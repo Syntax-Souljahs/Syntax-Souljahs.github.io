@@ -62,16 +62,16 @@ The exercises page offers a variety of workouts for your next exercise session, 
 You also have the option to put some exercises into your favorites which can be accessed in the favorite exercises page on the dropdown section of your username on the top right
 ![favorite-exercises-page.png](img%2Ffavorite-exercises-page.png)
 
-the buddy up page where you can match with people with similar training goals as you
+the Buddy Up page where you can match with people with similar training goals as you
 ![buddy-up-page.png](img%2Fbuddy-up-page.png)
 
-you can check the guide again if you needed to see the instructions again
+You can check the guide again if you needed to see the instructions a second time
 ![guide-page.png](img%2Fguide-page.png)
 
-workout schedule customization:
+Workout schedule customization:
 ![workout-sched-page.png](img%2Fworkout-sched-page.png)
 
-you can also check your profile to see your statistics
+You can also check your profile to see your statistics
 ![profile-page.png](img%2Fprofile-page.png)
 
 You also have the option to change your info to your liking with the edit button
@@ -84,7 +84,7 @@ However if you are an admin, you have access to all the profiles made so far
 
 
 
-and once you are fulfilled with your rc warriors experience you can click your profile on the top right corner and click sign out on the drop down
+and once you are fulfilled with your Rec Center Warriors experience you can click your profile on the top right corner and click sign out on the drop down
 ![sign-out-page.png](img%2Fsign-out-page.png)
 
 
