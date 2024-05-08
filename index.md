@@ -106,7 +106,7 @@ I really liked the concept for your webpage. A match maker for lifting is a grea
 <p>
 "Yeah I just went on! It seems easy to use and the concept is something I bet lots of students are interested in. Maybe being able to put down some more information about the advance level the person is in. Possibly putting down their max weights they use. The videos don't work, but the idea of having tutorials on how to do certain workouts is very helpful. Really good concept and hope more is added to it." - Sonse Kawasaki</p>
 
-<p>"I like how it is simple to set up and when you get into it and start using it the interface is not busy or all over the place. I also like the exercises tab, also on phone the fonts are too small and everything is too close together, but on the laptop it's all good" - Paul P</p>
+<p>"I like how it is simple to set up and when you get into it and start using it the interface is not busy or all over the place. I also like the exercises tab, also on phone the fonts are too small and everything is too close together, but on the laptop it's all good" - Paul Pladera</p>
 
 <p>"The design is pretty professional, almost like it is straight out of UH Manoa, but functionality wise it has a lot to improve on, which makes sense because it is still a work in progress. Phone version is completely different that PC also, but other than that has a lot of potential. Otherwise all the basic functions work great and to a non coders POV the app looks great - Earl Ramos</p>
 
